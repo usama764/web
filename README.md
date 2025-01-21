@@ -12,6 +12,7 @@ Github link. https://github.com/TheMaryamIsmail Project link: https://github.com
 
 # usama
 https://github.com/usama764/
+project: https://github.com/usama764/landing-page
 
 # Duaa
 https://github.com/DuaaDaniya
