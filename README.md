@@ -1,6 +1,10 @@
 # website LINK
 https://web-ten-lyart-44.vercel.app/
 
+# Github Setup
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
 
 # Add Your Name Here
 add your github link here like. https://github.com/AaqibRajput15
